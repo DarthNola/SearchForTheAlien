@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SearchForTheAlien/static/css/main.b66692b0.css",
+    "main.js": "/SearchForTheAlien/static/js/main.8de36099.js",
+    "static/js/787.9fcdd370.chunk.js": "/SearchForTheAlien/static/js/787.9fcdd370.chunk.js",
+    "index.html": "/SearchForTheAlien/index.html",
+    "main.b66692b0.css.map": "/SearchForTheAlien/static/css/main.b66692b0.css.map",
+    "main.8de36099.js.map": "/SearchForTheAlien/static/js/main.8de36099.js.map",
+    "787.9fcdd370.chunk.js.map": "/SearchForTheAlien/static/js/787.9fcdd370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b66692b0.css",
+    "static/js/main.8de36099.js"
+  ]
+}
